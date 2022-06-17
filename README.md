@@ -44,8 +44,7 @@ O formato de saída deve seguir a seguinte estrutura:
 ## Linguagem Utilizado
 
 <ul>
-    <li>HTML</li>
-    <li>JavaScript</li>
+    <li>Java</li>
 <ul></ul>
 
 # Como executar
